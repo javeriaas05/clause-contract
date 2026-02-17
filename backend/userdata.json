@@ -1,0 +1,252 @@
+{
+    "status": "success",
+    "message": "Users fetched successfully",
+    "data": [
+        {
+            "id": 1,
+            "first_name": "Zain",
+            "last_name": "Dev",
+            "email": "zain@gmail.com"
+        },
+        {
+            "id": 3,
+            "first_name": "Jav",
+            "last_name": "Dev",
+            "email": "Javeria@gmail.com"
+        },
+        {
+            "id": 4,
+            "first_name": "Jav",
+            "last_name": "Dev",
+            "email": "noor@gmail.com"
+        },
+        {
+            "id": 5,
+            "first_name": "New",
+            "last_name": "User",
+            "email": "new@gmail.com"
+        },
+        {
+            "id": 6,
+            "first_name": "First",
+            "last_name": "User",
+            "email": "first@gmail.com"
+        },
+        {
+            "id": 7,
+            "first_name": "zain",
+            "last_name": "Dev",
+            "email": "zaindev@spamok.com"
+        },
+        {
+            "id": 8,
+            "first_name": "Javeria",
+            "last_name": "Dev",
+            "email": "javeriaDev@spamok.com"
+        },
+        {
+            "id": 9,
+            "first_name": "Jav",
+            "last_name": "av2",
+            "email": "javris@gmail.com"
+        },
+        {
+            "id": 11,
+            "first_name": "javeria",
+            "last_name": "jas",
+            "email": "qwertyr@gmail.com"
+        },
+        {
+            "id": 20,
+            "first_name": "ahmad",
+            "last_name": "ali",
+            "email": "noor1234@gmail.com"
+        },
+        {
+            "id": 22,
+            "first_name": "jas",
+            "last_name": "jas",
+            "email": "noor1529@gmail.com"
+        },
+        {
+            "id": 23,
+            "first_name": "jjas",
+            "last_name": "jjas",
+            "email": "Ahmad@gmail.com"
+        },
+        {
+            "id": 24,
+            "first_name": "jiri",
+            "last_name": "jrei",
+            "email": "noo577r@gmail.com"
+        },
+        {
+            "id": 25,
+            "first_name": "jas",
+            "last_name": "jas",
+            "email": "noor456@gmail.com"
+        },
+        {
+            "id": 26,
+            "first_name": "jeri",
+            "last_name": "jeri",
+            "email": "noor98@gmail.com"
+        },
+        {
+            "id": 27,
+            "first_name": "jas",
+            "last_name": "jas",
+            "email": "noor756@gmail.com"
+        },
+        {
+            "id": 28,
+            "first_name": "hewjj",
+            "last_name": "hwev",
+            "email": "noor098@gmail.com"
+        },
+        {
+            "id": 29,
+            "first_name": "ixbs",
+            "last_name": "jakxba",
+            "email": "noor231@gmail.com"
+        },
+        {
+            "id": 31,
+            "first_name": "Jav",
+            "last_name": "Dev",
+            "email": "noorali@gmail.com"
+        },
+        {
+            "id": 33,
+            "first_name": "Jav",
+            "last_name": "Dev",
+            "email": "noor23@gmail.com"
+        },
+        {
+            "id": 35,
+            "first_name": "Jav",
+            "last_name": "Dev",
+            "email": "noor33@gmail.com"
+        },
+        {
+            "id": 37,
+            "first_name": "Jav",
+            "last_name": "Dev",
+            "email": "noor43@gmail.com"
+        },
+        {
+            "id": 42,
+            "first_name": "hdjc scnsj ",
+            "last_name": "asvhjs",
+            "email": "zainn@gmail.com"
+        },
+        {
+            "id": 46,
+            "first_name": "jhsa",
+            "last_name": "sghja",
+            "email": "zain346@gmail.com"
+        },
+        {
+            "id": 49,
+            "first_name": "jas ",
+            "last_name": "jas",
+            "email": "noorff@gmail.com"
+        },
+        {
+            "id": 51,
+            "first_name": "jas",
+            "last_name": "jas",
+            "email": "noor765@gmail.com"
+        },
+        {
+            "id": 53,
+            "first_name": "jas",
+            "last_name": "jas",
+            "email": "noorhkan@gmail.com"
+        },
+        {
+            "id": 55,
+            "first_name": "sdsj",
+            "last_name": "nscc",
+            "email": "noorkhan@gmail.com"
+        },
+        {
+            "id": 56,
+            "first_name": "javeria",
+            "last_name": "jas",
+            "email": "noor864@gmail.com"
+        },
+        {
+            "id": 57,
+            "first_name": "ja",
+            "last_name": "af",
+            "email": "javeriajas05@gmail.com"
+        },
+        {
+            "id": 59,
+            "first_name": "jbxs",
+            "last_name": "sjx",
+            "email": "javeriaj05@gmail.com"
+        },
+        {
+            "id": 60,
+            "first_name": "sih",
+            "last_name": "sih",
+            "email": "noor055@gmail.com"
+        },
+        {
+            "id": 62,
+            "first_name": "jas",
+            "last_name": "jas",
+            "email": "noor86@gmail.com"
+        },
+        {
+            "id": 64,
+            "first_name": "ajvhdsjahd",
+            "last_name": "jhsdhas",
+            "email": "noorfatima@gmail.com"
+        },
+        {
+            "id": 66,
+            "first_name": "jwd",
+            "last_name": "ajskd",
+            "email": "noor98634@gmail.com"
+        },
+        {
+            "id": 69,
+            "first_name": "jhqwds",
+            "last_name": "ajsdh",
+            "email": "noorfatimakhan@gmail.com"
+        },
+        {
+            "id": 71,
+            "first_name": "ahsvdcmnc",
+            "last_name": "msn c",
+            "email": "noorkhn@gmail.com"
+        },
+        {
+            "id": 73,
+            "first_name": "jhc",
+            "last_name": "v bn ",
+            "email": "noorftm@gmail.com"
+        },
+        {
+            "id": 76,
+            "first_name": "jasv",
+            "last_name": "jas",
+            "email": "frhan@gmail.com"
+        },
+        {
+            "id": 77,
+            "first_name": "jas",
+            "last_name": "jas",
+            "email": "noor75452@gmail.com"
+        },
+        {
+            "id": 78,
+            "first_name": "javeria",
+            "last_name": "jas",
+            "email": "noor34rrr@gmail.com"
+        }
+    ]
+}
