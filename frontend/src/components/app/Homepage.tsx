@@ -1,5 +1,6 @@
-import { SidebarProvider } from "../ui/sidebar";
-import AppIconsLoop from "./AppIconsLoop";
+// import { SidebarProvider } from "../ui/sidebar";
+// import AppIconsLoop from "./AppIconsLoop";
+
 import Dashboard from "./Dashboard";
 import Header from "./Header";
 import HeroSection from "./HeroSection";

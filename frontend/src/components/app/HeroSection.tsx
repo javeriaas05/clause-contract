@@ -1,8 +1,6 @@
 
+// import React from 'react';
 
-
-
-import React from 'react';
 import { Button } from '../ui/button';
 import { useNavigate } from 'react-router-dom'; // Import useNavigate
 import FloatingAvatar from '../FloatingAvatar';

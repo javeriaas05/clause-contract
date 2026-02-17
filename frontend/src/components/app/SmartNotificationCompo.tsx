@@ -1,7 +1,8 @@
 
 
-import React from 'react'
-import { Switch } from '../ui/switch';
+// import React from 'react'
+// import { Switch } from '../ui/switch';
+
 import AnnouncementSwitch from '../utils/AnnouncementsSwitch';
 
 export const SmartNotificationCompo = () => {
